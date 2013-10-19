@@ -4,7 +4,7 @@
  * скрипт fancybox (Jquery подключить отдельно)
  * 
  * @category	chunk
- * @version 	1.0
+ * @version 	2.1.5
  * @license 	http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL)
  * @internal @modx_category Js
  * @internal    @installset base
